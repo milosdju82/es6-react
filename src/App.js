@@ -1,4 +1,5 @@
 import React, {Component, Fragment} from 'react';
+import './App.scss';
 import { Search } from './components/Search/Search';
 
 class App extends Component {
